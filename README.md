@@ -1,3 +1,3 @@
 # personal
 this is my repository
-Author- muhammad saad saeed
+Author- Muhammad Saad Saeed
